@@ -1,11 +1,12 @@
 /*  your css code here. If applicable */
-.main-container{
+.container{
 	display:flex;
 	justify-content:center;
 	border:5px solid black;
 	border-radius:50px;
 	background-color:#d4d3d2;
     padding:50px;
+	gap:5px;
 }
 .green{
 	width:100px;
